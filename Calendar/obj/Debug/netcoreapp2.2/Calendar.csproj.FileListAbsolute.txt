@@ -1,0 +1,9 @@
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.deps.json
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.csprojAssemblyReference.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.csproj.CoreCompileInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfoInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.AssemblyInfo.cs
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.dll
+/Users/granteadie/Desktop/EPICODUS/C#/Calendar.Solution/Calendar/obj/Debug/netcoreapp2.2/Calendar.pdb
